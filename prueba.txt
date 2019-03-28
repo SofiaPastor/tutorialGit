@@ -2,4 +2,6 @@
 
 ##Sección 1 Introducción
 
-Esta es la primera línea orginal de texto, y termina aquí.
+Esta es la primera línea orginal de texto, y termina aquí. Y ya no termina aquí. Termina aquí.
+
+Además, añadimos esta línea.
