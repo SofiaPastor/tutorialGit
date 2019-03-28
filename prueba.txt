@@ -2,6 +2,11 @@
 
 ##Sección 1 Introducción
 
-Esta es la primera línea orginal de texto, y termina aquí. Y ya no termina aquí. Termina aquí.
+Esta es la primera línea de texto de la rama1. Y ya no termina aquí. Termina aquí.
 
 Además, añadimos esta línea.
+
+
+## Sección 2. Introducción
+
+Ahora la introducción irá aquí.
